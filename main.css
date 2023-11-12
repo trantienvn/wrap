@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0; /* Optional: Set a background color */
+}
+
+h1 {
+    font-family: 'Google Sans', sans-serif; /* Make sure to include Google Sans font */
+    text-align: center;
+    color: #333; /* Set the desired text color */
+    font-size:xxx-large;
+}
